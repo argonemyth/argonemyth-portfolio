@@ -3,7 +3,7 @@ argonemyth-portfolio
 
 What's this?
 ------------
-An Django app that organize your dev projects and display it on your website as a portfolio.
+A django app that manage your dev projects and display them as portfolio.
 
 Installation
 ------------
